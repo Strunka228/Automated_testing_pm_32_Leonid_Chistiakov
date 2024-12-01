@@ -1,0 +1,15 @@
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\bin\Debug\net8.0\PageObject.deps.json
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\bin\Debug\net8.0\PageObject.dll
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\bin\Debug\net8.0\PageObject.pdb
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\PageObject.csproj.AssemblyReference.cache
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\PageObject.AssemblyInfoInputs.cache
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\PageObject.AssemblyInfo.cs
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\PageObject.csproj.CoreCompileInputs.cache
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\PageObject.dll
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\refint\PageObject.dll
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\PageObject.pdb
+E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\PageObject\obj\Debug\net8.0\ref\PageObject.dll

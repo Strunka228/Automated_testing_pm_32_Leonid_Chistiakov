@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2I9vnIAtqkK+HKnRnK7H3fES7CALaO8GxUyL6PVl+ws9S/2duUWZ0bwU0faI5QVVcBOV9SN+BEDxNujVyqntUA==",
+  "success": true,
+  "projectFilePath": "E:\\Особиста папка\\3 курс\\1 семестр\\Автоматизоване тестування\\PageObject\\PageObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.8500\\selenium.webdriver.chromedriver.131.0.6778.8500.nupkg.sha512"
+  ],
+  "logs": []
+}

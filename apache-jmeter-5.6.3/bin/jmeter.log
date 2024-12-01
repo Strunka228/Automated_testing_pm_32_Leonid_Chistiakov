@@ -1,0 +1,329 @@
+2024-11-26 13:27:17,788 INFO o.a.j.u.JMeterUtils: Setting Locale to ru_RU
+2024-11-26 13:27:17,831 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'ru_RU'
+2024-11-26 13:27:17,832 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-11-26 13:27:17,839 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-11-26 13:27:17,865 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-11-26 13:27:17,865 INFO o.a.j.JMeter: Version 5.6.3
+2024-11-26 13:27:17,865 INFO o.a.j.JMeter: java.version=1.8.0_431
+2024-11-26 13:27:17,865 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2024-11-26 13:27:17,866 INFO o.a.j.JMeter: os.name=Windows 10
+2024-11-26 13:27:17,866 INFO o.a.j.JMeter: os.arch=x86
+2024-11-26 13:27:17,866 INFO o.a.j.JMeter: os.version=10.0
+2024-11-26 13:27:17,866 INFO o.a.j.JMeter: file.encoding=Cp1251
+2024-11-26 13:27:17,866 INFO o.a.j.JMeter: java.awt.headless=null
+2024-11-26 13:27:17,866 INFO o.a.j.JMeter: Max memory     =259522560
+2024-11-26 13:27:17,866 INFO o.a.j.JMeter: Available Processors =12
+2024-11-26 13:27:17,878 INFO o.a.j.JMeter: Default Locale=русский (Россия)
+2024-11-26 13:27:17,878 INFO o.a.j.JMeter: JMeter  Locale=русский (Россия)
+2024-11-26 13:27:17,878 INFO o.a.j.JMeter: JMeterHome=E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3
+2024-11-26 13:27:17,878 INFO o.a.j.JMeter: user.dir  =E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3\bin
+2024-11-26 13:27:17,879 INFO o.a.j.JMeter: PWD       =E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3\bin
+2024-11-26 13:27:22,525 INFO o.a.j.JMeter: IP: 26.131.82.59 Name: DESKTOP-DG0HJ50 FullName: DESKTOP-DG0HJ50
+2024-11-26 13:27:22,665 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-11-26 13:27:23,045 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-11-26 13:27:35,652 INFO o.a.j.s.FileServer: Default base='E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3\bin'
+2024-11-26 13:27:35,657 INFO o.a.j.g.a.Load: Loading file: E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3\bin\Lab4_modified.jmx
+2024-11-26 13:27:35,657 INFO o.a.j.s.FileServer: Set new base='E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3\bin'
+2024-11-26 13:27:36,021 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-11-26 13:27:36,133 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-11-26 13:27:36,135 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-11-26 13:27:36,141 INFO o.a.j.s.SaveService: Loading file: E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3\bin\Lab4_modified.jmx
+2024-11-26 13:27:36,294 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-26 13:27:36,294 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-26 13:27:36,295 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-26 13:27:36,295 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-26 13:27:36,295 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-11-26 13:27:36,295 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-11-26 13:27:36,635 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-11-26 13:27:36,636 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-11-26 13:27:36,636 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-11-26 13:27:36,636 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-11-26 13:27:37,751 INFO o.a.j.s.FileServer: Set new base='E:\Особиста папка\3 курс\1 семестр\Автоматизоване тестування\apache-jmeter-5.6.3\bin'
+2024-11-26 13:27:49,077 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-11-26 13:27:49,079 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-11-26 13:27:49,079 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-11-26 13:27:49,080 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-11-26 13:27:49,081 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-11-26 13:27:49,736 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-11-26 13:27:49,873 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-11-26 13:27:49,873 INFO o.a.j.e.StandardJMeterEngine: Starting 50 threads for group Thread Group.
+2024-11-26 13:27:49,874 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-11-26 13:27:49,874 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=50 ramp-up=1 delayedStart=false
+2024-11-26 13:27:49,887 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2024-11-26 13:27:49,900 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
+2024-11-26 13:27:49,919 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-11-26 13:27:49,919 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Thread Group
+2024-11-26 13:27:49,919 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Thread Group.
+2024-11-26 13:27:49,919 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-11-26 13:27:49,919 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2024-11-26 13:27:49,920 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-3
+2024-11-26 13:27:49,922 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-1
+2024-11-26 13:27:49,925 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2024-11-26 13:27:49,925 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : Thread Group
+2024-11-26 13:27:49,925 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Thread Group.
+2024-11-26 13:27:49,925 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-11-26 13:27:49,926 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=10 ramp-up=1 delayedStart=false
+2024-11-26 13:27:49,927 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-1
+2024-11-26 13:27:49,931 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2024-11-26 13:27:49,932 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-11-26 13:27:49,941 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-4
+2024-11-26 13:27:49,956 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-5
+2024-11-26 13:27:49,959 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-DG0HJ50
+2024-11-26 13:27:49,978 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-6
+2024-11-26 13:27:49,979 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2024-11-26 13:27:49,996 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-7
+2024-11-26 13:27:50,015 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-8
+2024-11-26 13:27:50,021 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-2
+2024-11-26 13:27:50,028 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-2
+2024-11-26 13:27:50,035 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-9
+2024-11-26 13:27:50,055 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-10
+2024-11-26 13:27:50,075 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-11
+2024-11-26 13:27:50,096 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-12
+2024-11-26 13:27:50,116 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-13
+2024-11-26 13:27:50,121 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-3
+2024-11-26 13:27:50,127 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-3
+2024-11-26 13:27:50,135 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-14
+2024-11-26 13:27:50,156 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-15
+2024-11-26 13:27:50,177 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-16
+2024-11-26 13:27:50,199 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-17
+2024-11-26 13:27:50,215 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-18
+2024-11-26 13:27:50,220 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-4
+2024-11-26 13:27:50,227 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-4
+2024-11-26 13:27:50,238 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-19
+2024-11-26 13:27:50,249 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2024-11-26 13:27:50,254 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2024-11-26 13:27:50,255 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2024-11-26 13:27:50,258 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-20
+2024-11-26 13:27:50,276 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-21
+2024-11-26 13:27:50,296 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-22
+2024-11-26 13:27:50,316 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-23
+2024-11-26 13:27:50,320 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-5
+2024-11-26 13:27:50,327 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-5
+2024-11-26 13:27:50,335 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-24
+2024-11-26 13:27:50,355 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-25
+2024-11-26 13:27:50,375 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-26
+2024-11-26 13:27:50,395 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-27
+2024-11-26 13:27:50,415 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-28
+2024-11-26 13:27:50,420 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-6
+2024-11-26 13:27:50,427 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-6
+2024-11-26 13:27:50,435 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-29
+2024-11-26 13:27:50,455 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-30
+2024-11-26 13:27:50,476 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-31
+2024-11-26 13:27:50,495 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-32
+2024-11-26 13:27:50,515 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-33
+2024-11-26 13:27:50,519 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-7
+2024-11-26 13:27:50,527 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-7
+2024-11-26 13:27:50,535 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-34
+2024-11-26 13:27:50,555 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-35
+2024-11-26 13:27:50,575 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-36
+2024-11-26 13:27:50,596 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-37
+2024-11-26 13:27:50,615 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-38
+2024-11-26 13:27:50,620 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-8
+2024-11-26 13:27:50,627 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-8
+2024-11-26 13:27:50,635 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-39
+2024-11-26 13:27:50,655 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-40
+2024-11-26 13:27:50,675 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-41
+2024-11-26 13:27:50,695 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-42
+2024-11-26 13:27:50,716 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-43
+2024-11-26 13:27:50,720 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-9
+2024-11-26 13:27:50,727 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-9
+2024-11-26 13:27:50,736 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-44
+2024-11-26 13:27:50,755 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-45
+2024-11-26 13:27:50,775 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-46
+2024-11-26 13:27:50,797 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-47
+2024-11-26 13:27:50,816 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-48
+2024-11-26 13:27:50,819 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 2-10
+2024-11-26 13:27:50,840 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 3-10
+2024-11-26 13:27:50,840 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-49
+2024-11-26 13:27:50,856 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-50
+2024-11-26 13:27:50,903 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2024-11-26 13:27:50,907 INFO o.a.j.u.SSLManager: KeyStore created OK
+2024-11-26 13:27:50,907 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2024-11-26 13:28:01,108 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-1
+2024-11-26 13:28:01,108 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-1
+2024-11-26 13:28:05,596 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-9
+2024-11-26 13:28:05,596 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-9
+2024-11-26 13:28:05,969 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-10
+2024-11-26 13:28:05,969 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-10
+2024-11-26 13:28:07,615 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-6
+2024-11-26 13:28:07,615 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-6
+2024-11-26 13:28:12,400 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-37
+2024-11-26 13:28:12,400 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-37
+2024-11-26 13:28:12,492 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-8
+2024-11-26 13:28:12,492 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-8
+2024-11-26 13:28:17,450 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-5
+2024-11-26 13:28:17,450 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-5
+2024-11-26 13:28:17,811 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-17
+2024-11-26 13:28:17,811 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-17
+2024-11-26 13:28:19,491 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-15
+2024-11-26 13:28:19,492 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-15
+2024-11-26 13:28:19,692 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 3-2
+2024-11-26 13:28:19,692 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-2
+2024-11-26 13:28:20,472 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-12
+2024-11-26 13:28:20,472 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-12
+2024-11-26 13:28:21,676 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 3-8
+2024-11-26 13:28:21,676 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-8
+2024-11-26 13:28:21,833 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-23
+2024-11-26 13:28:21,834 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-23
+2024-11-26 13:28:22,355 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-2
+2024-11-26 13:28:22,355 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-2
+2024-11-26 13:28:24,051 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-18
+2024-11-26 13:28:24,051 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-18
+2024-11-26 13:28:25,355 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-7
+2024-11-26 13:28:25,355 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-7
+2024-11-26 13:28:26,193 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-22
+2024-11-26 13:28:26,193 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-22
+2024-11-26 13:28:26,284 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-25
+2024-11-26 13:28:26,285 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-25
+2024-11-26 13:28:27,259 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-32
+2024-11-26 13:28:27,259 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-32
+2024-11-26 13:28:29,697 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-5
+2024-11-26 13:28:29,697 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-5
+2024-11-26 13:28:32,069 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-30
+2024-11-26 13:28:32,069 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-30
+2024-11-26 13:28:32,178 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-34
+2024-11-26 13:28:32,178 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-34
+2024-11-26 13:28:33,013 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-11
+2024-11-26 13:28:33,013 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-11
+2024-11-26 13:28:35,752 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-29
+2024-11-26 13:28:35,752 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-29
+2024-11-26 13:28:36,173 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-4
+2024-11-26 13:28:36,174 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-4
+2024-11-26 13:28:37,928 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-20
+2024-11-26 13:28:37,929 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-20
+2024-11-26 13:28:38,250 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-35
+2024-11-26 13:28:38,250 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-35
+2024-11-26 13:28:38,322 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-9
+2024-11-26 13:28:38,322 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-9
+2024-11-26 13:28:40,586 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-43
+2024-11-26 13:28:40,586 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-43
+2024-11-26 13:28:40,611 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 2-3
+2024-11-26 13:28:40,612 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 2-3
+2024-11-26 13:28:40,709 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-2
+2024-11-26 13:28:40,709 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
+2024-11-26 13:28:41,053 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-26
+2024-11-26 13:28:41,053 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-26
+2024-11-26 13:28:41,433 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-36
+2024-11-26 13:28:41,433 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-36
+2024-11-26 13:28:42,433 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-13
+2024-11-26 13:28:42,434 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-13
+2024-11-26 13:28:42,449 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-10
+2024-11-26 13:28:42,450 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-10
+2024-11-26 13:28:44,361 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 3-3
+2024-11-26 13:28:44,361 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-3
+2024-11-26 13:28:45,289 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-31
+2024-11-26 13:28:45,290 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-31
+2024-11-26 13:28:45,934 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-48
+2024-11-26 13:28:45,934 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-48
+2024-11-26 13:28:46,187 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-27
+2024-11-26 13:28:46,187 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-27
+2024-11-26 13:28:46,268 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-39
+2024-11-26 13:28:46,269 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-39
+2024-11-26 13:28:48,179 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 3-9
+2024-11-26 13:28:48,179 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-9
+2024-11-26 13:28:48,195 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-4
+2024-11-26 13:28:48,196 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-4
+2024-11-26 13:28:48,947 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-41
+2024-11-26 13:28:48,947 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-41
+2024-11-26 13:28:49,225 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-33
+2024-11-26 13:28:49,226 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-33
+2024-11-26 13:28:49,341 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 3-6
+2024-11-26 13:28:49,341 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-6
+2024-11-26 13:28:49,491 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-49
+2024-11-26 13:28:49,491 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-49
+2024-11-26 13:28:49,803 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-7
+2024-11-26 13:28:49,803 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-7
+2024-11-26 13:28:52,519 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-47
+2024-11-26 13:28:52,628 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-28
+2024-11-26 13:28:52,520 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-47,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:28:52,629 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-28,6,main]
+java.lang.OutOfMemoryError: Java heap space
+	at org.apache.commons.io.IOUtils.byteArray(IOUtils.java:368) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.commons.io.output.AbstractByteArrayOutputStream.needNewBuffer(AbstractByteArrayOutputStream.java:140) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.commons.io.output.AbstractByteArrayOutputStream.writeImpl(AbstractByteArrayOutputStream.java:331) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.commons.io.output.ByteArrayOutputStream.write(ByteArrayOutputStream.java:148) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.readResponse(HTTPSamplerBase.java:1969) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.readResponse(HTTPAbstractImpl.java:475) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:678) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1311) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1300) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) ~[ApacheJMeter_core.jar:5.6.3]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_431]
+2024-11-26 13:28:53,646 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-10
+2024-11-26 13:28:53,647 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 3-10,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:28:54,542 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-40
+2024-11-26 13:28:54,543 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-40,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:28:55,854 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-21
+2024-11-26 13:28:55,855 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-21,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:28:56,605 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-42
+2024-11-26 13:28:56,605 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-42,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:28:56,684 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-8
+2024-11-26 13:28:56,685 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-8,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:00,011 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-4
+2024-11-26 13:29:00,012 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 3-4,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:00,401 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-19
+2024-11-26 13:29:00,401 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-19,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:00,500 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 3-7
+2024-11-26 13:29:00,500 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-7
+2024-11-26 13:29:00,620 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-38
+2024-11-26 13:29:00,620 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-38
+2024-11-26 13:29:00,629 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 3-1
+2024-11-26 13:29:00,629 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-1
+2024-11-26 13:29:02,072 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2024-11-26 13:29:02,073 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-1,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:02,079 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 3-5
+2024-11-26 13:29:02,080 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 3-5,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:02,301 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-50
+2024-11-26 13:29:02,302 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-50,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:02,951 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-16
+2024-11-26 13:29:02,951 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-16,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:03,219 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-46
+2024-11-26 13:29:03,220 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-46,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:03,505 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-6
+2024-11-26 13:29:03,505 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-6
+2024-11-26 13:29:03,960 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-24
+2024-11-26 13:29:03,960 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-24
+2024-11-26 13:29:04,247 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-14
+2024-11-26 13:29:04,247 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-14
+2024-11-26 13:29:04,269 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-3
+2024-11-26 13:29:04,270 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-3,6,main]
+java.lang.OutOfMemoryError: Java heap space
+	at org.apache.commons.io.IOUtils.byteArray(IOUtils.java:368) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.commons.io.output.AbstractByteArrayOutputStream.needNewBuffer(AbstractByteArrayOutputStream.java:140) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.commons.io.output.AbstractByteArrayOutputStream.writeImpl(AbstractByteArrayOutputStream.java:331) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.commons.io.output.ByteArrayOutputStream.write(ByteArrayOutputStream.java:148) ~[commons-io-2.15.1.jar:2.15.1]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.readResponse(HTTPSamplerBase.java:1969) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.readResponse(HTTPAbstractImpl.java:475) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:678) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1311) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1300) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) ~[ApacheJMeter_core.jar:5.6.3]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_431]
+2024-11-26 13:29:04,519 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-44
+2024-11-26 13:29:04,520 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[Thread Group 1-44,6,main]
+java.lang.OutOfMemoryError: Java heap space
+2024-11-26 13:29:05,510 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-45
+2024-11-26 13:29:05,510 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-45
+2024-11-26 13:29:05,511 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-11-26 13:29:05,512 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
